@@ -53,7 +53,7 @@ Used `nargin` to design a function that can flexibly respond to a variable numbe
 ### ▶️ Bonus Challenge – Valid Date  
 Built a reusable function to determine if a date string is valid, using nested conditionals.  
 📄 `valid_date_another-practice.m`  
-📄 `reference-to-valid_date.txt`
+📄 `solution-to-valid_date.m`
 
 ⸻
 

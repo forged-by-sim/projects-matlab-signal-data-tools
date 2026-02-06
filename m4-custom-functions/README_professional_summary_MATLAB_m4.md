@@ -31,7 +31,7 @@ Wrote a function to return the area of a triangle given its base and height.
 
 ### ▶️ Lesson Summary  
 Reinforced function structure, inputs/outputs, and clean formatting practices.  
-📄 `practice-lesson-3-wrap-up.txt`  
+📄 `practice-lesson-3-wrap-up.m`  
 
 ---
 

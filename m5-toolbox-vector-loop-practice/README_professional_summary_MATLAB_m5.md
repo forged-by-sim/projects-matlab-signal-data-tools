@@ -34,7 +34,7 @@ Ran built-in functions across varied inputs to test syntax, return behavior, and
 
 ### ▶️ Lesson Summary  
 Captured reflections and concept notes on function usage, syntax, and output interpretation.  
-📄 `practice-lesson-4-wrap-up.txt`
+📄 `practice-lesson-4-wrap-up.m`
 
 ---
 

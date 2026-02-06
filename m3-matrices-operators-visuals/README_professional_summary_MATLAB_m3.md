@@ -25,7 +25,7 @@ This module introduced MATLAB’s core identity as a matrix-first language. I wo
 ### ▶️ Lesson 2 Wrap-Up  
 A review exercise to reinforce syntax and concepts introduced in this module.  
 
-📄 `practice-lesson-2-wrap-up.txt`  
+📄 `summary-lesson-2-wrap-up.txt`  
 
 ---
 
